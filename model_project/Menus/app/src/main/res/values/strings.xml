@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="menu_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="feedback">Feedback</string>
+    <string name="exit">Exit</string>
+    <string name="textView1">Click Menu Button on the Action Bar to show the Option Menu. </string>
+    <string name="textView2">Press and Hold the above EditText to show the Context Menu. </string>
+    <string name="welcome_msg">Welcome to Context Menu!!</string>
+    <string name="about_msg">About Context Menu!!</string>
+</resources>

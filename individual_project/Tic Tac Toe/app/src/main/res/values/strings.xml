@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="your_turn">It is your turn!</string>
+    <string name="android_turn">It is Android\'s turn!</string>
+    <string name="tie">It\'s a tie!</string>
+    <string name="won">You won!</string>
+    <string name="lose">You lose!</string>
+    <string name="begin">You go first.</string>
+    <string name="restart">Start</string>
+    <string name="a">  win:</string>
+    <string name="b">  lose:</string>
+    <string name="c">  tie:</string>
+    <string name="difficulty">difficulty</string>
+    <string name="clear">Clear</string>
+    <string name="quit">quit</string>
+    <string name="easy">easy</string>
+    <string name="hard">hard</string>
+    <string name="expert">expert</string>
+    <string name="bestTime">best time use :</string>
+    <string-array name="level">
+        <item>easy</item>
+        <item>hard</item>
+        <item>expert</item>
+    </string-array>
+</resources>

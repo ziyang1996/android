@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="your_turn">轮到你了</string>
+    <string name="android_turn">轮到安卓了</string>
+    <string name="tie">平局！</string>
+    <string name="won">你赢了！</string>
+    <string name="lose">你输了！</string>
+    <string name="begin">你先走</string>
+    <string name="restart">开始游戏</string>
+    <string name="a">  胜:</string>
+    <string name="b">  败:</string>
+    <string name="c">  平:</string>
+    <string name="difficulty">难度</string>
+    <string name="clear">清空记录</string>
+    <string name="quit">退出</string>
+    <string name="easy">简单</string>
+    <string name="hard">困难</string>
+    <string name="expert">专家</string>
+    <string name="bestTime">最佳用时 :</string>
+    <string-array name="level">
+        <item>简单</item>
+        <item>困难</item>
+        <item>专家</item>
+    </string-array>
+</resources>

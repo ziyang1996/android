@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wallet Keeper</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Addition</string>
+    <string name="title_user">User</string>
+    <string name="add_money">Money</string>
+    <string name="add_comments">Comments</string>
+    <string name="addition">添加</string>
+</resources>

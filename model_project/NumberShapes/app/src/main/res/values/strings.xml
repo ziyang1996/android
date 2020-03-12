@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Number Shapes</string>
+
+    <string name="title">Number Shapes</string>
+    <string name="notation">Enter a number below to find out if it is a triangular number, square number, or both!</string>
+    <string name="button">TEST NUMBER</string>
+    <string name="no_no">is not square, and not triangular.</string>
+    <string name="no_yes">is not square, but is triangular.</string>
+    <string name="yes_no">is square, but not triangular.</string>
+    <string name="yes_yes">is square, and is triangular.</string>
+
+
+
+</resources>

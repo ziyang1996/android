@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/menu_easy"
+        android:title="@string/easy" />
+    <item
+        android:id="@+id/menu_hard"
+        android:title="@string/hard" />
+    <item
+        android:id="@+id/menu_expert"
+        android:title="@string/expert" />
+    <item
+        android:id="@+id/Quit"
+        android:title="@string/quit"
+        app:showAsAction="ifRoom" />
+</menu>

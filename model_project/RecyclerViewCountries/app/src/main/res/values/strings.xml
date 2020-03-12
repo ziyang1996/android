@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RecyclerView and CardView</string>
+    <string-array name="areas_array">
+        <item>17,098,242 sq km</item>
+        <item>9,984,670 sq km</item>
+        <item>9,857,348 sq km</item>
+        <item>9,596,961 sq km</item>
+        <item>8,515,770 sq km</item>
+        <item>7,741,220 sq km</item>
+        <item>3,287,263 sq km</item>
+        <item>2,780,400 sq km</item>
+        <item>2,724,900 sq km</item>
+        <item>2,381,741 sq km</item>
+    </string-array>
+    <string-array name="countries_array">
+        <item>Russia</item>
+        <item>Canada</item>
+        <item>United States</item>
+        <item>China</item>
+        <item>Brazil</item>
+        <item>Australia</item>
+        <item>India</item>
+        <item>Argentina</item>
+        <item>Kazahkstan</item>
+        <item>Algeria</item>
+    </string-array>
+    <integer-array name="flags_array">
+        <item>@drawable/russia</item>
+        <item>@drawable/canada</item>
+        <item>@drawable/usa</item>
+        <item>@drawable/china</item>
+        <item>@drawable/brazil</item>
+        <item>@drawable/australia</item>
+        <item>@drawable/india</item>
+        <item>@drawable/argentina</item>
+        <item>@drawable/kazakhstan</item>
+        <item>@drawable/algeria</item>
+    </integer-array>
+</resources>
